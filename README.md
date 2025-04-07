@@ -13,19 +13,9 @@ To write a Python program for adding two complex numbers, and get the user input
 
 ## PROGRAM
 ```python
-# Get user input for two complex numbers
-A = eval(input())
-B = eval(input())
+# Reg.No- Name- Write your code here
 
-# Print the complex numbers
-print(f"A is {A}")
-print(f"B is {B}")
-
-# Add the complex numbers
-sum_complex = A + B
-
-# Print the sum
-print(f"Sum is {sum_complex}")
+```
 
 ## OUTPUT
 
