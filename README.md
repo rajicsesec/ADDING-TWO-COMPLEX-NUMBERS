@@ -26,13 +26,9 @@ sum_complex = A + B
 
 # Print the sum
 print(f"Sum is {sum_complex}")
-```
+
 ## OUTPUT
-Enter first complex number: (2+3j)
-Enter second complex number: (1+4j)
-A is (2+3j)
-B is (1+4j)
-Sum is (3+7j)
+
 
 ## RESULT
 Thus the python program for  adding two complex numbers has been implemented and executed successfully.
